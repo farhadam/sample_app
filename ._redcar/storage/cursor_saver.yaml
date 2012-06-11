@@ -1,4 +1,9 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2012-06-10 20:14:46.486000 -04:00
+  - :path: README.rdoc
+    :cursor_offset: 661
+    :timestamp: 2012-06-10 20:14:46.482000 -04:00
 files_to_retain: 0
